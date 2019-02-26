@@ -8,3 +8,7 @@ Features to work on:
  - Search bar for Google Map API
  - Additional readibility (i.e. camera selector, better styling, etc.)
  - Full integration with path planner matlab script
+
+<p align="center">
+  <img src="Images/UI Idea.PNG"; width="400px"; height="auto"; />
+</p>
