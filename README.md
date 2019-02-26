@@ -10,5 +10,5 @@ Features to work on:
  - Full integration with path planner matlab script
 
 <p align="center">
-  <img src="Images/UI Idea.PNG"; width="400px"; height="auto"; />
+  <img src="Images/UI Idea.png"; width="400px"; height="auto"; />
 </p>
